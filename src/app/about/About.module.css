@@ -1,0 +1,44 @@
+.about {
+    padding: 20px;
+    background-color: #000000;
+    border: 2px solid #ffffff;
+    border-radius: 65px;
+    margin: 15% 30px 8px 30px;
+    box-shadow: 0px 2px 1px 5px green, 0px 0px 25px 5px green;
+    width: 90%;
+    height: 35vh;
+    font-size: 18px;
+    text-align: center;
+  }
+  
+  .about h1 {
+    font-size: 2.5rem;
+    color: rgb(0, 255, 245, 0.7);
+    border-bottom: 3px solid rgb(255, 255, 255, 0.5);
+    display: inline-flex;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-top: 50px;
+    transition: .3s ease;
+  }
+  
+  .about h1:hover {
+    font-size: 2.6rem;
+    color: rgb(0, 255, 245);
+    border-bottom: 3px solid rgb(255, 255, 255);
+    margin-top: 40px;
+  }
+  
+  .about p {
+    font-size: 1.5rem;
+    color: rgba(255, 255, 255, .7);
+    margin-top: 10px;
+    transition: .3s ease;
+  }
+
+  .about p:hover {
+    font-size: 1.6rem;
+    color: rgba(255, 255, 255, 1);
+    margin-top: 0px;
+  }
+  

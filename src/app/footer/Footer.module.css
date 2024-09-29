@@ -1,0 +1,11 @@
+.footer {
+  background-color: #181818;
+  color: white;
+  margin-top: 30px;
+  display: inline-table;
+  scroll-behavior: smooth;
+  position: absolute;
+  width: 90%;
+  padding: 20px 42px;
+}
+
